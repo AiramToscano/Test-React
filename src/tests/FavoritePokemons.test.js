@@ -5,7 +5,7 @@ import renderWithRouter from '../helpers/renderWithRouter';
 import { FavoritePokemons } from '../components';
 import App from '../App';
 
-describe('testa o component App', () => {
+describe('testa o component Favorite Pokemons', () => {
   it('Teste se é exibido na tela a mensagem No favorite pokemon found', () => {
     renderWithRouter(<FavoritePokemons />);
     const textFavorites = screen.getByText(/No favorite pokemon found/i);
