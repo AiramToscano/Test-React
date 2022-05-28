@@ -19,5 +19,5 @@
 
 ## O que deverá ser desenvolvido
 
-Nesse projeto você escreverá testes para uma aplicação React utilizando uma api pokemon.
+Nesse projeto foi escrito testes para uma aplicação React utilizando uma api pokemon.
 
